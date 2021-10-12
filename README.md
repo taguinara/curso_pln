@@ -1,1 +1,1 @@
-## Cursos - Processamento de Linguagem Natural (PLN)
+## Processamento de Linguagem Natural (PLN)
